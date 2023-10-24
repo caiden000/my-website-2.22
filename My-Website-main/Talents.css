@@ -1,0 +1,18 @@
+
+body{
+    background-color: rgb(80, 80, 80);
+}
+
+audio{
+    height: 1px;
+    width: 1px;
+}
+
+video{
+    width: 400px;
+}
+.a2{
+    border: 20px;
+    font-size: 50px;
+    margin-left: 20px;
+}
