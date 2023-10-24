@@ -1,0 +1,25 @@
+body{
+    background-color: #203100;
+}
+
+video{
+    border-radius: 40px;
+    border: 2000px;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 600px;
+}
+
+a{
+    color: orange;
+}
+
+button{
+    height: 30px;
+    width: 70px;
+}
+
+
+h2{
+    color: aqua;
+}
